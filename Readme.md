@@ -1,6 +1,6 @@
 # CSE 324: Compiler Design
 
-Compiler design is the structured process of creating software that translates high-level programming languages (like **C**, **Java**, or **Python**) into low-level machine code or assembly language, which computers can directly execute. It involves analyzing source code structure, identifying errors, optimizing performance, and generating code, ensuring efficient translation through several phases like lexical analysis, parsing, and code generation.
+Compiler design is the structured process of creating software that translates high-level programming languages (like **C**, **Java**, or **Python**) into low-level machine code or assembly language, which computers can directly execute.
 
 - [**📌 Course Outline: Theory**](materials/course-outline-theory.docx)
 - [**📌 Course Outline: Lab**](materials/course-outline-lab.docx)
