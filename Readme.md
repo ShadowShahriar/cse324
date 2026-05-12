@@ -3,7 +3,7 @@
 Compiler design is the structured process of creating software that translates high-level programming languages (like **C**, **Java**, or **Python**) into low-level machine code or assembly language, which computers can directly execute.
 
 - [**📌 Course Outline: Theory**](materials/course-outline-theory.docx)
-- [**📌 Course Outline: Lab**](materials/course-outline-lab.docx)
+      <!-- - [**📌 Course Outline: Lab**](materials/course-outline-lab.docx) -->
 
 ## Course Information
 
@@ -18,13 +18,13 @@ Course offered by,
 
 [**Anusha Aziz**](https://bubt.edu.bd/department/27/faculty/profile/24697)<br>Lecturer<br>Department of Computer Science and Engineering<br>**anusha@bubt.edu.bd**
 
-<!-- ## Recommended Book
+## Recommended Book
 
-- [**📘 Compiler Design**](https://drive.usercontent.google.com/download?id=1uSgP-NPDUk1cXd-vhNI7cadLamBy9e6m&export=download) -->
+- [**📘 Compilers - Principles, Techniques, and Tools (2nd Edition)**](https://drive.google.com/file/d/1eqPiKw4N-az6znPtJv9NJEONxlokhGF0/view?usp=drive_link)
 
-<!-- ## Course Materials
+## Course Materials
 
-> All course materials have been moved to this dedicated **Google Drive folder** to avoid GitHub pages size constraints. -->
+> Find all course materials in this dedicated [**Google Drive folder**](https://drive.google.com/drive/folders/1UjLbUYVHUkAv7hQzf65k10GMZZM0yzKr?usp=drive_link).
 
 <!-- ## Theory Quick Notes
 
