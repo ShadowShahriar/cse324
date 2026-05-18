@@ -3,7 +3,7 @@
 Compiler design is the structured process of creating software that translates high-level programming languages (like **C**, **Java**, or **Python**) into low-level machine code or assembly language, which computers can directly execute.
 
 - [**📌 Course Outline: Theory**](materials/course-outline-theory.docx)
-  <!-- - [**📌 Course Outline: Lab**](materials/course-outline-lab.docx) -->
+    <!-- - [**📌 Course Outline: Lab**](materials/course-outline-lab.docx) -->
 
 ## Course Information
 
@@ -58,6 +58,7 @@ Course offered by,
 
 - [**Class 01-02**](https://shadowshahriar.github.io/cse324/notes/class-01-02.pdf): 10-11 May 2026
 - [**Class 03**](https://shadowshahriar.github.io/cse324/notes/class-03.pdf): 17 May 2026
+- [**Class 04**](https://shadowshahriar.github.io/cse324/notes/class-04.pdf): 18 May 2026
 
 <!-- ## Lab Reports
 
