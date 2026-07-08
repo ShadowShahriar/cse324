@@ -62,6 +62,12 @@ Course offered by,
 - [**Class 07**](https://shadowshahriar.github.io/cse324/notes/class-07.pdf): 14 June 2026
 - [**Class 08**](https://shadowshahriar.github.io/cse324/notes/class-08.pdf): 15 June 2026
 - [**Class 09**](https://shadowshahriar.github.io/cse324/notes/class-09.pdf): 21 June 2026
+- [**Class 10**](https://shadowshahriar.github.io/cse324/notes/class-10.pdf): 22 June 2026
+
+#### Final Term
+
+- [**Class 11**](https://shadowshahriar.github.io/cse324/notes/class-11.pdf): 5 July 2026
+- [**Class 12**](https://shadowshahriar.github.io/cse324/notes/class-12.pdf): 6 July 2026
 
 <!-- ## Lab Reports
 
