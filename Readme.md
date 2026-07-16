@@ -68,6 +68,7 @@ Course offered by,
 
 - [**Class 11**](https://shadowshahriar.github.io/cse324/notes/class-11.pdf): 5 July 2026
 - [**Class 12**](https://shadowshahriar.github.io/cse324/notes/class-12.pdf): 6 July 2026
+- [**Class 13**](https://shadowshahriar.github.io/cse324/notes/class-13.pdf): 13 July 2026 (Contributed by [**Munasib Maria Oyshi**](https://github.com/BlackPepper404))
 
 <!-- ## Lab Reports
 
